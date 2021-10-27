@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Engineering Building Boundary Selector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Engineering_Building_Boundary_Selector_jar</output-path>
+    <root id="archive" name="Engineering Building Boundary Selector.jar">
+      <element id="module-output" name="Engineering Building Boundary Selector" />
+    </root>
+  </artifact>
+</component>
