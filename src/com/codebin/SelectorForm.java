@@ -122,6 +122,7 @@ public class SelectorForm {
 
             this.x = x;
             this.y = y;
+            this.z = z;
 
             this.setBorder(BorderFactory.createLineBorder(Color.GRAY));
             this.setMinimumSize(new Dimension(1,1));
